@@ -1,0 +1,1 @@
+'''Ho sento. No la vaig saber treure aquesta :((

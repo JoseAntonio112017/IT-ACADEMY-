@@ -1,0 +1,1 @@
+SELECT genre_name, count(movie_genre_id) as total_movies from genre, movie where movie.movie_genre_id = genre.genre_id group by genre_name, movie_genre_id order by total_movies DESC

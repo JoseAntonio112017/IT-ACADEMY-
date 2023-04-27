@@ -1,0 +1,3 @@
+DELETE FROM movie WHERE movie_title ='La Gran Familia Española'
+SET FOREIGN_KEY_CHECKS=0; '''VIA STACKOVERFLOw
+'''NO funciona. Tampoco parece la mejor idea de cara a comprobar si la base de datos está bien construida...
